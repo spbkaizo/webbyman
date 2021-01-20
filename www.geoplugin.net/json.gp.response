@@ -1,0 +1,28 @@
+{
+  "geoplugin_request":"88.88.219.62",
+  "geoplugin_status":206,
+  "geoplugin_delay":"1ms",
+  "geoplugin_credit":"Some of the returned data includes GeoLite data created by MaxMind, available from <a href='http:\/\/www.maxmind.com'>http:\/\/www.maxmind.com<\/a>.",
+  "geoplugin_city":"Ergun City",
+  "geoplugin_region":"",
+  "geoplugin_regionCode":"",
+  "geoplugin_regionName":"",
+  "geoplugin_areaCode":"",
+  "geoplugin_dmaCode":"",
+  "geoplugin_countryCode":"CN",
+  "geoplugin_countryName":"China",
+  "geoplugin_inEU":0,
+  "geoplugin_euVATrate":0,
+  "geoplugin_continentCode":"CN",
+  "geoplugin_continentName":"China",
+  "geoplugin_latitude":"51.4964",
+  "geoplugin_longitude":"120.1224",
+  "geoplugin_locationAccuracyRadius":"20",
+  "geoplugin_timezone":"Europe\/London",
+  "geoplugin_currencyCode":"GBP",
+  "geoplugin_currencySymbol":"£",
+  "geoplugin_currencySymbol_UTF8":"£",
+  "geoplugin_currencyConverter":99.7356
+}
+
+
